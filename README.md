@@ -1,7 +1,6 @@
 # 📦 Revenue Management Optimisation for BuildMax Rentals  
 **Warwick Business School | Pricing Analytics (IB9EO0)**  
 **Project Duration:** Oct 2024 – Mar 2025  
-**Team Assignment**
 
 ## 🧾 Project Overview  
 This project presents a linear programming model designed to optimise equipment rental revenue for **BuildMax Rentals**, a heavy machinery rental company operating in North America and Europe. Using UK branch data, we assessed BuildMax’s suitability for revenue management (RM) and developed a model to enhance decision-making for rental allocation and pricing.
